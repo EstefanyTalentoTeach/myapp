@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Atividade da unidade 2 do curso Talento teach, sejam bem vindos!
 
 ## Getting Started
 
